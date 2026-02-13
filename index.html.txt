@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Práctica de Selectores CSS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1 id="titulo">Práctica de Selectores CSS</h1>
+
+    <p>Este es un párrafo normal.</p>
+    <p class="destacado">Este párrafo usa una clase.</p>
+
+    <div class="contenedor">
+        <h2>Subtítulo</h2>
+        <p>Párrafo dentro del contenedor.</p>
+        <ul>
+            <li>Elemento 1</li>
+            <li>Elemento 2</li>
+        </ul>
+    </div>
+
+    <section>
+        <p>Primer párrafo</p>
+        <p>Segundo párrafo</p>
+    </section>
+
+    <input type="text" placeholder="Nombre">
+    <input type="email" placeholder="Correo">
+
+</body>
+</html>
